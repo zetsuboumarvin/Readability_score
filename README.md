@@ -1,10 +1,10 @@
 # Readability score
 JetBrains Academy's project
 
-Program implements various algorithms of determing texts difficulty and for which age they are most suitable:
+Program implements various algorithms of determing texts difficulty and for which age they are most suitable:  
 Automated readability index - https://en.wikipedia.org/wiki/Automated_readability_index  
 Flesch-Kincaid readability tests - https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests  
-SMOG(Simple Measure of Gobbledygook) - https://en.wikipedia.org/wiki/SMOG
+SMOG(Simple Measure of Gobbledygook) - https://en.wikipedia.org/wiki/SMOG  
 Coleman–Liau index - https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index
 
 Program will show a score of a text's difficulty with a chosen algorithm (or all of them) and corresponding age.
